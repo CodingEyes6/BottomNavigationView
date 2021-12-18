@@ -1,3 +1,4 @@
+![BottomNavigationBar](https://github.com/CodingEyes6/BottomNavigationView/blob/master/Screenshots/BottomNavBar.png)
 ![BottomNavigationBar](https://github.com/CodingEyes6/BottomNavigationView/blob/master/Screenshots/output.PNG)
 
 
