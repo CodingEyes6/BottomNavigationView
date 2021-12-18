@@ -1,3 +1,7 @@
+![BottomNavigationBar](![name-of-you-image](https://your-copied-image-address)
+)
+
+
 --------- BottomNavigationView Tutorial ------------
 
 Step1: Add BottomNavigationView in android layout file
