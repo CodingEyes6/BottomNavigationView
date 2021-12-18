@@ -1,3 +1,7 @@
+![BottomNavigationBar](https://github.com/CodingEyes6/BottomNavigationView/blob/master/Screenshots/output.PNG)
+
+
+
 --------- BottomNavigationView Tutorial ------------
 
 Step1: Add BottomNavigationView in android layout file
