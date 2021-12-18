@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/activity_main.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/drawable/ic_add.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/drawable/ic_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/drawable/ic_notification.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/drawable/ic_profile.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/fragment_add.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/fragment_home.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/fragment_notification.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/fragment_profile.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/layout/fragment_search.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/usama/AndroidStudioProjects/BottomNavigationBarViewSample/app/src/main/res/menu/menu_items.xml" value="0.1796875" />
       </map>
     </option>
   </component>
