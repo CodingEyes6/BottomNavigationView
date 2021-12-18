@@ -3,7 +3,7 @@
 
 
 
-</b>--------- BottomNavigationView Tutorial ------------</b>
+<b>--------- BottomNavigationView Tutorial ------------</b>
 
 <b/>Step1:</b> Add BottomNavigationView in android layout file
 
