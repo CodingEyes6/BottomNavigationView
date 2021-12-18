@@ -1,5 +1,5 @@
-![BottomNavigationBar](![name-of-you-image](https://your-copied-image-address)
-)
+![BottomNavigationBar](https://github.com/CodingEyes6/BottomNavigationView/blob/master/Screenshots/output.PNG)
+
 
 
 --------- BottomNavigationView Tutorial ------------
